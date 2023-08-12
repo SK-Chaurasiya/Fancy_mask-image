@@ -10,12 +10,12 @@ Take the time to learn and practice CSS, JavaScript, and Node.js concepts thorou
 ![preview](https://github.com/SK-Chaurasiya/Fancy_mask-image/assets/97239651/07f01f4c-bf63-4178-be92-f5dc9a31bd5b)
 
 
-Demo View:- (https://sk-chaurasiya.github.io/Fancy_mask-image/)
+[Demo View](https://sk-chaurasiya.github.io/Fancy_mask-image/)
 
-Hire me on Fiverr:- https://www.fiverr.com/s/Wmg1eL
+Hire me [on Fiverr](https://www.fiverr.com/s/Wmg1eL)
 
-Cool Clothes (Design):- https://my-store-da61c0.creator-spring.com/
+[Cool Clothes (Design)](https://my-store-da61c0.creator-spring.com/)
 
-Stock Designs:- https://www.shutterstock.com/g/White+Designer?rid=374117119
+[Stock Designs](https://www.shutterstock.com/g/White+Designer?rid=374117119)https://www.shutterstock.com/g/White+Designer?rid=374117119
 
 Thank you For coming.
