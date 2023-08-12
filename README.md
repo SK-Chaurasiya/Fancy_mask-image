@@ -10,7 +10,7 @@ Take the time to learn and practice CSS, JavaScript, and Node.js concepts thorou
 ![preview](https://github.com/SK-Chaurasiya/Fancy_mask-image/assets/97239651/07f01f4c-bf63-4178-be92-f5dc9a31bd5b)
 
 
-Demo View:- (Waiting UpDate)
+Demo View:- (https://sk-chaurasiya.github.io/Fancy_mask-image/)
 
 Hire me on Fiverr:- https://www.fiverr.com/s/Wmg1eL
 
