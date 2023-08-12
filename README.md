@@ -7,6 +7,9 @@ Certainly, here's the modified version of the text:
 Take the time to learn and practice CSS, JavaScript, and Node.js concepts thoroughly before delving into this particular code. This foundation will ensure a better comprehension and enable you to make the most of the fancy-mask-image-animation code when you revisit it."
 
 
+![preview](https://github.com/SK-Chaurasiya/Fancy_mask-image/assets/97239651/07f01f4c-bf63-4178-be92-f5dc9a31bd5b)
+
+
 Demo View:- (Waiting UpDate)
 
 Hire me on Fiverr:- https://www.fiverr.com/s/Wmg1eL
